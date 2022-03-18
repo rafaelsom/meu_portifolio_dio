@@ -9,4 +9,4 @@ Projeto aula dio 2022 -> Meu Portifólio
 ## Primeiro projeto
 *Especeficação da minha máquina. Usando linha de comando no terminal linux.
                   
-*Especificação da minh REDE. Usando cli Linux.
+*Especificação da minha REDE. Usando cli Linux.
